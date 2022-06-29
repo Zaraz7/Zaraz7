@@ -3,7 +3,6 @@ I am junior programmer and artist
 
 
 ### Hardware Skills
----
 #### Computer languages
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
 > **.NET, WPF**
@@ -25,7 +24,6 @@ I am junior programmer and artist
 
 
 ### Portfolio
---- 
 #### Programming
 ##### Tisinalite
 > Note-taking application on .NET. It has a [portable version](https://github.com/Zaraz7/Tisinalite) (with local saving of notes) and a [version with a database](https://github.com/Zaraz7/Tisinalite-SQL).
