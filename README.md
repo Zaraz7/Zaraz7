@@ -15,7 +15,3 @@ I am junior programmer and artist
 #### Tisinalite
 > Note-taking application on .NET. It has a [portable version](https://github.com/Zaraz7/Tisinalite) (with local saving of notes) and a [multi-user version with a database](https://github.com/Zaraz7/Tisinalite-SQL).
 ![Tisinalite](https://github.com/Zaraz7/Tisinalite/blob/images/images/screenshot0.png)
----
-#### My digital painting
-> My [VKontakte group](https://vk.com/zaraz_7).
-> ![Zaraz7 | Art](https://github.com/Zaraz7/Zaraz7/blob/main/img/art-2021.jpg)
