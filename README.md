@@ -1,5 +1,5 @@
 # Greeting!
-I am junior programmer and artist
+I am just programmer and artist
 
 ### Hardware Skills
 
