@@ -7,7 +7,7 @@ I am just programmer and artist
   Swp[                                0K/0K]    Load average: 0.84 0.87 0.87                    
                                                    Uptime: 06:37:05                             
                                                                                                 
-    PID USER      CPU%  MEM%   Command                                    
+    PID USER      CPU%  MEM%   Command                                    
    1643 zaraz7     0,0   0,0   gam_server                                                       
    1670 zaraz7     0,0   0,1   gsettings-helper                                                 
    1688 zaraz7     0,0   0,1   xdg-desktop-portal                                               
